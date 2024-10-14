@@ -1,17 +1,15 @@
 <h1 align="center">Hai 👋, saya ARTHA Artha Suratinoyo</h1>
 <h3 align="center">Pengembang frontend pemula</h3>
 
-<img align="right"alt="coding"width="400"src="https://pin.it/3rxXcd4d3">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artha231&label=Profile%20views&color=0e75b6&style=flat" alt="artha231" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artha231" alt="artha231" /></a> </p>
 
 - 👨‍💻 Semua proyek saya tersedia di [https://www.linkedin.com/in/arta-suratinoyo-91212a320/](https://www.linkedin.com/in/arta-suratinoyo-91212a320/)
 
 - 📫 Cara menghubungi saya **suratinoyoarta@gmail.com**
 
-- ⚡ Fakta menarik **Saya menyukai Seseorang di Informatika**
+- ⚡ Fakta menarik **Saya suka Seseorang di Informatika**
 
 <h3 align="left">Hubungi saya:</h3>
 <p align="left">
